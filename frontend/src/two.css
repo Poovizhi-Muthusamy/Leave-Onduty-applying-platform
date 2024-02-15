@@ -1,0 +1,23 @@
+.loginB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container1 {
+  border: 1px solid #ccc;
+  background-color: #eae7b8;
+  margin-top: -70px; /* Adjust this value to move the container up */
+  padding: 20px;
+  border-radius: 8px;
+  width: 500px;
+  box-sizing: content-box; /* Include padding and border in the width calculation */
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

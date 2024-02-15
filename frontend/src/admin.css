@@ -1,0 +1,14 @@
+.dashboard{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    
+}
+.table{
+    text-align: center;
+    border: 2px solid black;
+    width: 1000px;
+    margin: 100px;
+    margin-top: 30px;
+}

@@ -1,0 +1,20 @@
+.newbg{
+    background-color: #A1CCD1;
+}
+.headbg{
+    background-color: #eae7b8;
+}
+.formbg{
+background-color: #F4F2DE;
+}
+.txt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.clsbtn{
+
+background-color: rgb(185, 72, 72);
+color: white;
+border-radius: 6px;
+border: 1px solid rgb(185, 72, 72);
+}

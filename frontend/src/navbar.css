@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+.navbar {
+  background-color: #A1CCD1; /* Bootstrap primary color */
+    color: white;
+    padding: 10px 0;
+   
+  }
+  
+  .container {
+    display:block;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 8px;
+    
+  }
+  
+  .navbar-brand {
+    padding-left: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }
+  
